@@ -403,6 +403,19 @@ header{
     color: black;
 }
 
+.projetobutton a{
+    background: #66ff00;
+    border: none;
+    cursor: pointer;
+    border-radius: 20px;
+    padding: 10px;
+    margin-top: 8px;
+    font-weight: bold;
+    font-family: "Arial", sans-serif;
+    text-decoration: none;
+    color: black;
+}
+
 .titulo-mobile{
     display: flex;
     font-family: "Arial", sans-serif;
@@ -533,6 +546,7 @@ footer{
     padding: 0;
     margin: 0;
 }
+
 
 
 
